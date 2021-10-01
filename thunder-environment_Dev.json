@@ -1,0 +1,1 @@
+{"client":"Thunder Client","environmentName":"Dev","dateExported":"2021-09-18T20:58:33.582Z","version":"1.0","variables":[{"name":"API_URL","value":"localhost:8000"},{"name":"API_VERSION","value":"v1"}],"envFile":"/home/neon/Desktop/.env"}
